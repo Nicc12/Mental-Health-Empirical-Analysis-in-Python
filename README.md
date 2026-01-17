@@ -3,7 +3,7 @@ This study examines Suicide Rates in 2023, determines statistical significant pr
 ---
 ### Tools
 * Python
-* * Pandas
+  * Pandas
   * Matplotlib
   * seaborn
   * statsmodels

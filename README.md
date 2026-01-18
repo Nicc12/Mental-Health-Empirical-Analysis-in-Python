@@ -15,7 +15,7 @@ This study examines Suicide Rates in 2023, determines statistical significant pr
 * Multiple Regression Analysis
 * Ordinary Least Squares
 * P-values/ P-hacking
-
+---
 ### Repository Information 📄:
 
 This repository includes four files: README.md, Empirical Analysis.pdf, Empirical Analysis.zip, and MentalHealthAnalysis.ipynb

@@ -16,3 +16,11 @@ This study examines Suicide Rates in 2023, determines statistical significant pr
 * Ordinary Least Squares
 * P-values/ P-hacking
 
+### Repository Information 📄:
+
+This repository includes four files: README.md, Empirical Analysis.pdf, Empirical Analysis.zip, and MentalHealthAnalysis.ipynb
+
+* README.md is what you are reading now and explains information associated with the project.
+* Empirical Analysis.pdf is the written and cited report of the analysis.
+* Empirical Analysis.zip is a zip file which contains all data associated with the project.
+* MentalHealthAnalysis.ipynb is a Juypter Notebook containing all the python code utilized to conduct the Analysis.

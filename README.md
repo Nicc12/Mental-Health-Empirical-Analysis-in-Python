@@ -10,7 +10,6 @@ This study examines Suicide Rates in 2023, determines statistical significant pr
   * statsmodels
 * Excel
 * Microsoft Word
-### Methods & statistics
 * Multiple Regression Analysis
 * Ordinary Least Squares
 * P-values/ P-hacking

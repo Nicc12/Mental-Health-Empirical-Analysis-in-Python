@@ -1,6 +1,6 @@
 # Mental Health Empirical Analysis in Python 🧠
 
-This study examines Suicide Rates in 2023, determines statistical significant predictor variables, and policy recommendations based on findings.
+This study examines Suicide Rates in 2023, determines statistically significant predictor variables, and provides policy recommendations based on findings.
 
 ### Tech & Methods ⚙️:
 ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
